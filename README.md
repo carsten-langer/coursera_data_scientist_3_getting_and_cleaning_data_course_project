@@ -1,3 +1,5 @@
+This project was used for Coursera Data Science course, now it is archived.
+
 # Coursera Data Scientist / Getting and Cleaning Data / course project work
 
 
